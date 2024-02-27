@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cgbsavings.online	TRUE	/	FALSE	1999999999	ci_session	794s1soje0utho6tknqhctfcc86jsui1
+cgbsavings.online	TRUE	/	FALSE	1999999999	csrf_cookie_name	1e93ce4ad7d9badd94c0b4ba89a783f2
+cgbsavings.online	TRUE	/	FALSE	1999999999	SameSite	Lax
+
